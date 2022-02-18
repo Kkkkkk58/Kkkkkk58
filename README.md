@@ -44,3 +44,5 @@ Windows                  4 hrs 56 mins       ███████████�
 
  Last Updated on 18/02/2022 18:49:12 UTC
 <!--END_SECTION:waka-->
+
+![Metrics](/metrics.plugin.achievements.compact.svg)
