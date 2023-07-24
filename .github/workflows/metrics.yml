@@ -15,8 +15,8 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
+#           plugin_achievements: yes
+#           plugin_achievements_display: detailed
           config_timezone: Europe/Moscow
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
